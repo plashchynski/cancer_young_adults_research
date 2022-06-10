@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 .DS_Store
+
+# CI5 dataset
+CI5
